@@ -1,4 +1,6 @@
 # tugas4
+![Screenshot 2023-03-07 233455](https://user-images.githubusercontent.com/92065915/223488246-dbb8983a-865b-4f97-b8dd-04548ebf0d83.png)
+![Screenshot 2023-03-07 233424](https://user-images.githubusercontent.com/92065915/223488273-b07786e2-f7f6-47c0-9882-3b7d41b0577c.png)
 
 A new Flutter project.
 
